@@ -219,6 +219,4 @@ This improves:
 
 # ⭐ If you like this project
 
-Give it a star ⭐ on GitHub and feel free to fork it for improvements.
-
-Just say 👍
+Give it a star ⭐ on GitHub.
