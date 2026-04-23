@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #f5f7fb;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.header {
+  height: 56px;
+  background: white;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  font-weight: bold;
+}
+
+.panel {
+  width: 240px;
+  padding: 12px;
+  background: white;
+  border-right: 1px solid #e5e7eb;
+}
+
+.sidebar {
+  width: 180px;
+}
+
+.node-item {
+  padding: 10px;
+  margin: 6px 0;
+  background: #f3f4f6;
+  border-radius: 6px;
+  cursor: grab;
+}
+
+.node-item:hover {
+  background: #e0e7ff;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #4f46e5;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-top: 10px;
+}
