@@ -1,12 +1,12 @@
 
-# 📌 HR Workflow Designer (React + React Flow)
+#  HR Workflow Designer (React + React Flow)
 
 A visual workflow builder for HR automation processes such as onboarding, approvals, and task orchestration.
 Built using **React + React Flow**, this project allows HR admins to design workflows without writing code.
 
 ---
 
-# 🚀 Features
+#  Features
 
 * Drag & drop workflow builder
 * Custom HR nodes (Start, Task, Approval, Automation, End)
